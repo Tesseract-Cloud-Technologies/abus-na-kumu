@@ -2,7 +2,7 @@
 
 An earthy, story-led food and catering site that makes visitors hungry and proud of a PNG-owned brand.
 
-**Status:** Design concept — not the official website. Built by **Tesseract Cloud Technologies, Port Moresby**. Live demo: `https://<username>.github.io/abusnakumu-demo`.
+**Status:** Design concept — not the official website. Built by **Tesseract Cloud Technologies, Port Moresby**. Live demo: `https://tesseract-cloud-technologies.github.io/abus-na-kumu/`.
 
 ![Desktop screenshot placeholder](docs/screenshot-desktop.png)
 
